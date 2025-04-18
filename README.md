@@ -8,4 +8,4 @@ Game rules:
 1. Move one disk at a time.
 2. Bigger disk cannot be on top of smaller disk.
 3. Move all the disks to 2nd or 3rd peg following above rules.
-4. This is not a rule. System will monitor number of moves and time taken. xhibit and check your thinking speed and accuracy.
+4. This is not a rule. System will monitor number of moves and time taken. Exhibit and check your thinking speed and accuracy.
